@@ -1,0 +1,4 @@
+ADMINISTRATOR
+login: https://domain.com/mimintop/
+user: mimintop
+pass: mimintop

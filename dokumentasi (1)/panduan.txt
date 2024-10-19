@@ -1,0 +1,26 @@
+PANDUAN INSTALASI
+1. Atur PHP 7.4 di hosting
+2. Buat database dan import database.sql
+3. Buka file connect.php di folder function
+4. Atur database sesuai database yang dibuat
+5. Compress dan Upload script ke document root domain Anda
+6. Selesai
+
+ADMINISTRATOR
+login: https://domain.com/mimintop/
+user: mimintop
+pass: mimintop
+
+INTEGRASI API
+1. Buka file config.php di folder main/API
+2. Atur konfigurasi sesuai API anda
+- URL Request Balance
+- URL Request
+- API Key
+- Secret Key 
+3. Selesai
+
+CATATAN
+- Script ini telah kami amankan dan bersih dari BACKDOOR
+- Website dapat digunakan untuk pengembangan kembali
+- Assets gambar dan jumlah games perlu di update ulang
